@@ -7,7 +7,7 @@ output:
   html_document: default
 ---
 **GROUP MEMBERS:**
-Bamba Cisse, 
+Bamba Cisse
 Riyesh Nath
 Nasrin Khanam 
 Marwan Kenawy
